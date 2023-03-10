@@ -1,0 +1,125 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;900&display=swap');
+
+body{
+    background-color: #161616;
+    margin: 0 2%;
+}
+
+.principal{
+    padding: 10px;
+    margin-top: 2%;
+    border: 1px solid rgba(153, 153, 153, 0.4);
+}
+
+.titulo__reuniao{
+    color: #eeee;
+    padding: 8px 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+    font-style: italic;
+    font-size: 16px;
+    text-align:center;
+}
+
+.oracao_inicial{
+    padding-bottom: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 11px;
+    color: rgb(255, 255, 255);
+    
+}
+
+.semana_leitura{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.semana{
+    color: #eeee;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-size: 14px;
+
+}
+
+.leitura_semana{
+    color:rgb(78, 166, 255);
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+.cabecalho_secao{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    
+}
+
+.tesouros_fundo_logo{
+    background-color: #949494ee;
+    width: 28px;
+    display: flex;
+    justify-content: center;
+}
+
+.material-symbols-outlined{
+    color: black;
+}
+
+.titulo_secao_tesouros{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #949494ee;
+}
+
+.tema_discurso{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 11px;
+    margin-top: 3%;
+    color: rgb(255, 255, 255);
+}
+
+.nome_publicador{
+    color: #10f3d5ee;
+    font-size: 11px;
+}
+
+.nossa_vida_crista{
+    margin-top: 5%;
+}
+
+.nvc_fundo_logo{
+    background-color: #a30000ee;
+    width: 28px;
+    display: flex;
+    justify-content: center;
+}
+
+.ovelha{
+    
+    width: 20px;
+    padding: 2px;
+}
+
+.titulo_secao_rmv{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #b40909ee;
+}
+
+.oracao_final{
+    padding-top: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 11px;
+    color: rgb(255, 255, 255);
+    
+}
