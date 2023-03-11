@@ -26,6 +26,11 @@ body{
     text-align:center;
 }
 
+.presidente{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #10f3d5ee;
+}
+
 .oracao_inicial{
     padding-bottom: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
